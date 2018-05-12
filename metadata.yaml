@@ -1,0 +1,44 @@
+_repo: Lapsi_33138
+_version: 0.1.0
+alternative_title: Barnet. Finnish
+contributor:
+  translator:
+    agent_name: Suppanen, Aatto
+    aliases:
+    - Aatto S.
+    - Suppanen, Adolf
+    birthdate: 1855
+    deathdate: 1898
+    gutenberg_agent_id: '6674'
+    url: http://www.gutenberg.org/2009/agents/6674
+    wikipedia: http://fi.wikipedia.org/wiki/Aatto_Suppanen
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Leffler, Anne Charlotte
+    aliases:
+    - Cajanello, Anna Carlotta Leffler Edgren, duchessa di
+    - Caianello, Anne Charlotte Leffler, duchessa di
+    - Edgren, Anne C. (Anne Charlotte)
+    - Edgren, Anna Charlotta
+    birthdate: 1849
+    deathdate: 1892
+    gutenberg_agent_id: '36228'
+    url: http://www.gutenberg.org/2009/agents/36228
+    wikipedia: http://en.wikipedia.org/wiki/Anne_Charlotte_Leffler
+description: ''
+gutenberg_issued: '2010-07-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33138'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Swedish fiction -- Translations into Finnish'
+- !lcc 'PT'
+title: Lapsi
+url: http://www.gutenberg.org/ebooks/33138
